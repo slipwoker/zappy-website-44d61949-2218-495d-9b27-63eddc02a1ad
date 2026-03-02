@@ -1,47 +1,61 @@
-# Business — Generative Engine Optimization Map
+# Rubik AI — Generative Engine Optimization Map
+
+> Rubik AI is a digital marketing and business promotion company that helps businesses grow through AI-powered marketing solutions. The brand combines technological innovation with strategic business promotion services.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://rubik-ai.zappy5.app
 Rubik AI משלבת בינה מלאכותית עם אסטרטגיות שיווק מתקדמות כדי להאיץ את צמיחת העסק שלך. פתרונות חכמים שמניבים תוצאות מדידות ומשמעותיות.
 
 ### שירותים
-https://example.com/services
+https://rubik-ai.zappy5.app/services
 גלה את מגוון שירותי השיווק הדיגיטלי המתקדמים שלנו: קמפיינים חכמים, אופטימיזציה אוטומטית ואנליטיקה מבוססת בינה מלאכותית. הצלחה מובטחת לעסק שלך.
 
 ### אודות
-https://example.com/about
+https://rubik-ai.zappy5.app/about
 הכירו את הצוות שמוביל את המהפכה הטכנולוגית בשיווק הדיגיטלי. Rubik AI משלבת חדשנות עם ניסיון עשיר כדי להביא את העסק שלך לשלב הבא.
 
 ### צור קשר
-https://example.com/contact
+https://rubik-ai.zappy5.app/contact
 מוכנים להאיץ את הצמיחה העסקית שלכם? צרו קשר עם המומחים שלנו וקבלו ייעוץ אישי ללא התחייבות. נגיד לכם בדיוק איך נביא לכם יותר לקוחות.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://rubik-ai.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://rubik-ai.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://rubik-ai.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Rubik AI
+Rubik AI is a digital marketing and business promotion company that helps businesses grow through AI-powered marketing solutions. The brand combines technological innovation with strategic business promotion services.
+
+## Target Audience
+- מייסדי סטארטאפים טכנולוגיים
+- יזמי מסחר אלקטרוני
+- בעלי עסקים מקומיים
+- סוכנויות שיווק דיגיטלי
+- פרילנסרים בתחום השיווק
+
+## Industry
+שיווק דיגיטלי ופרסום
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://rubik-ai.zappy5.app/sitemap.xml
+- **Robots.txt**: https://rubik-ai.zappy5.app/robots.txt
